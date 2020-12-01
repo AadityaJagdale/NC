@@ -24,7 +24,7 @@ class bob
 			push()
 			translate(paperpos.x, paperpos.y);
 			rectMode(CENTER)
-			fill(255,0,255)
+			fill(0, 238, 255)
 			ellipse(0,0,this.r, this.r);
 			pop()
 			
